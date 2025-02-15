@@ -19,3 +19,25 @@ const presentations = fs
     ]);
   }
 })();
+
+const indexHtml = presentations
+  .map(
+    (presentation) =>
+      `<li><a href="./${presentation}/index.html">${presentation}</a></li>`
+  )
+  .join("");
+
+fs.writeFileSync(
+  "./dist/index.html",
+  `<!DOCTYPE html>
+<html>
+<head>
+  <title>Presentations</title>
+</head>
+<body>
+  <ul>
+    ${indexHtml}
+  </ul>
+</body>
+</html>`
+);
