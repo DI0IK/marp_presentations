@@ -1,7 +1,7 @@
 {
   "name": "marp_presentations",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.mjs"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^4.1.1",
