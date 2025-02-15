@@ -1,4 +1,13 @@
 {
-  "name": "BWL_Presentation",
-  "packageManager": "yarn@4.5.2"
+  "name": "marp_presentations",
+  "packageManager": "yarn@4.5.2",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.1.1",
+    "@marp-team/marp-core": "^4.0.1",
+    "add": "^2.0.6",
+    "yarn": "^1.22.22"
+  }
 }
