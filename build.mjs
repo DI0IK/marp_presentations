@@ -21,9 +21,10 @@ const presentations = fs
 })();
 
 const indexHtml = presentations
+  .sort()
   .map(
     (presentation) =>
-      `<li><a href="./${presentation}/index.html">${presentation}</a></li>`
+      `<li><a href="./${presentation}/">${presentation}</a></li>`
   )
   .join("");
 
