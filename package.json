@@ -1,6 +1,6 @@
 {
   "name": "marp_presentations",
-  "packageManager": "yarn@4.5.2",
+  "packageManager": "yarn@4.6.0",
   "scripts": {
     "build": "node build.js"
   },
