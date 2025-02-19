@@ -180,6 +180,14 @@ Beispiele: Bankkredite oder Darlehen
 - Einhaltung gesetzlicher Vorschriften
 - soziale Anliegen zur Verbesserung der Arbeitsqualität
 
+<!--
+Ersatzinvestitionen: z.B. Anlage aufgrund eines Defektes ersetzen
+Rationalisierungsinvestitionen: z.B. Anlage ersetzen um Kosten zu sparen / bessere Produkte herzustellen
+Erweiterungsinvestitionen: Leistungspotenzial steigern
+Umstellungsinvestitionen: bisherige Erzeugnisse durch neue ersetzen
+Diversifikationsinvestitionen: andere Leistung zusätzlich zu vorhandenen
+ --->
+
 ---
 
 <!-- _header: "Investition" -->
