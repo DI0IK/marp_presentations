@@ -217,7 +217,19 @@ Beispiele: Bankkredite oder Darlehen
 
 <!-- _header: "Investition - Kapitalwert" -->
 
-### Berechnung
+### Berechnung bei konstanten Zahlungen
+
+- $I$: Anfangsauszahlung
+- $B_t$: Barwert der Zahlungen in Periode $t$
+- $r$: Zinssatz
+
+$NPV = \sum_{t=0}^{n} \frac{B_t}{(1+r)^t} - I$
+
+---
+
+<!-- _header: "Investition - Kapitalwert" -->
+
+![height:27cm](https://upload.wikimedia.org/wikipedia/commons/0/02/NPV_Berechnungen.png)
 
 ---
 
