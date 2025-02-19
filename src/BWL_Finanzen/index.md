@@ -170,6 +170,14 @@ Beispiele: Bankkredite oder Darlehen
 
 <!-- _header: "Investition" -->
 
+## Definition
+
+zielgerichtete Umwandlung von Kapital in Vermögensgegenstände
+
+---
+
+<!-- _header: "Investition" -->
+
 ## Motive
 
 - Ersatzinvestitionen
@@ -220,6 +228,18 @@ Diversifikationsinvestitionen: andere Leistung zusätzlich zu vorhandenen
 
 - Verwendung: Bewertung von Investitionen
 - Berechnung: Differenz zwischen den Einzahlungen und Auszahlungen
+
+---
+
+<!-- _header: "Investition" -->
+
+## Vorteilhaftigkeit
+
+Gegeben, wenn:
+
+- vorgegebene Amortisationszeit (Soll-Zeit) größer ist als die tatsächlich ermittelte Amortisationszeit (Ist-Zeit) oder
+- Investitionsprojekt im Vergleich zu anderen Projekten die kürzeste Amortisationszeit aufweist
+- Kapitalwert positiv
 
 ---
 
